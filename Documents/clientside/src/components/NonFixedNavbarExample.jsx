@@ -1,7 +1,16 @@
-import React from 'react';
-import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavbarToggler, MDBCollapse, MDBNavItem, MDBNavLink, MDBIcon, MDBContainer } from 'mdbreact';
-import { BrowserRouter as Router,NavLink,Link } from 'react-router-dom';
-import FormPage from './FormPage';
+import React from "react";
+import {
+  MDBNavbar,
+  MDBNavbarBrand,
+  MDBNavbarNav,
+  MDBNavbarToggler,
+  MDBCollapse,
+  MDBNavItem,
+  MDBNavLink,
+  MDBIcon,
+  MDBContainer,
+} from "mdbreact";
+import { BrowserRouter as Router, NavLink, Link } from "react-router-dom";
 class NonFixedNavbarExample extends React.Component {
   constructor(props) {
     super(props);
@@ -18,7 +27,7 @@ class NonFixedNavbarExample extends React.Component {
   }
 
   render() {
-    const container = { height: 1300 }
+    const container = { height: 1300 };
     return (
       <div>
         <Router>
@@ -39,13 +48,19 @@ class NonFixedNavbarExample extends React.Component {
                 </MDBNavbarNav>
                 <MDBNavbarNav right>
                   <MDBNavItem>
-                    <MDBNavLink to="#"><MDBIcon fab icon="facebook-f" /></MDBNavLink>
+                    <MDBNavLink to="#">
+                      <MDBIcon fab icon="facebook-f" />
+                    </MDBNavLink>
                   </MDBNavItem>
                   <MDBNavItem>
-                    <MDBNavLink to="#"><MDBIcon fab icon="twitter" /></MDBNavLink>
+                    <MDBNavLink to="#">
+                      <MDBIcon fab icon="twitter" />
+                    </MDBNavLink>
                   </MDBNavItem>
                   <MDBNavItem>
-                    <MDBNavLink to="#"><MDBIcon fab icon="instagram" /></MDBNavLink>
+                    <MDBNavLink to="#">
+                      <MDBIcon fab icon="instagram" />
+                    </MDBNavLink>
                   </MDBNavItem>
                 </MDBNavbarNav>
               </MDBCollapse>
