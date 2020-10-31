@@ -1,5 +1,5 @@
 var canvas = new fabric.Canvas("canvas");
-
+//function to preview the image and add the image to canvas
 document.getElementById("file").addEventListener("change", function (e) {
   var file = e.target.files[0];
   var reader = new FileReader();
@@ -14,18 +14,16 @@ document.getElementById("file").addEventListener("change", function (e) {
   };
   reader.readAsDataURL(file);
 });
-
+//function to choose the color
 $("#fill").change(function () {
   var obj = canvas.getActiveObject();
 
   if (obj) {
-    // old api
-    // obj.setFill($(this).val());
     obj.set("fill", this.value);
   }
   canvas.renderAll();
 });
-
+//function add text to canvas and add font and color to it
 function addText() {
   var oText = new fabric.IText("Tap and Type", {
     left: 100,
@@ -37,17 +35,17 @@ function addText() {
   canvas.setActiveObject(oText);
   $("#fill, #font").trigger("change");
 }
+//function to choose the color
 $("#font").change(function () {
   var obj = canvas.getActiveObject();
 
   if (obj) {
-    //old api
-    //obj.setFontFamily($(this).val());
     obj.set("fontFamily", this.value);
   }
 
   canvas.renderAll();
 });
+//function to download image after editing
 download_img = function (el) {
   // get image URI from canvas object
   var imageURI = canvas.toDataURL("image/jpg");
