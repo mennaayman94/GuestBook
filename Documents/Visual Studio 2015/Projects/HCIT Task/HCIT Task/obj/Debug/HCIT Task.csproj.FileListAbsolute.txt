@@ -1,0 +1,56 @@
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\ApplicationInsights.config
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\csc.exe
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\System.Collections.Immutable.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\vbc.exe
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\VBCSCompiler.exe
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\roslyn\VBCSCompiler.exe.config
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\HCIT Task.dll.config
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\HCIT Task.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\HCIT Task.pdb
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\EntityFramework.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\EntityFramework.SqlServer.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.Web.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.WindowsServer.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.ApplicationInsights.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.Web.Infrastructure.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Helpers.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Mvc.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Razor.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Webpages.Deployment.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Webpages.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Webpages.Razor.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\EntityFramework.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\EntityFramework.SqlServer.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.Web.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.AI.WindowsServer.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.ApplicationInsights.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Razor.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Webpages.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Webpages.Deployment.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Webpages.Razor.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Helpers.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Mvc.xml
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\obj\Debug\HCIT Task.csprojResolveAssemblyReference.cache
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\obj\Debug\HCIT Task.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\obj\Debug\HCIT Task.pdb
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\obj\Debug\HCIT_Task.Migrations.Initial.resources
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\obj\Debug\HCIT Task.csproj.GenerateResource.Cache
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\Antlr3.Runtime.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\System.Web.Optimization.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\WebActivatorEx.dll
+c:\users\go\documents\visual studio 2015\Projects\HCIT Task\HCIT Task\bin\WebGrease.dll
